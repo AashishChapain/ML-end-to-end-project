@@ -24,6 +24,7 @@ list_of_files = [
     "logs.py",
     "exception.py",
     "setup.py",
+    "requirements.txt",
 ]
 
 for filepath in list_of_files:
