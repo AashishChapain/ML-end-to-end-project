@@ -113,9 +113,6 @@ class DataTransformation:
         except Exception as e:
             raise CustomException( e,sys)
 
-        except Exception as e:
-            raise CustomException(e, sys)
-
     
     def get_feature_eng_obj(self):
         try:
